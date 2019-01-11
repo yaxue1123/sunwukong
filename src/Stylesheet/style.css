@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 .home-body {
-    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,0.6) 30%), url("../Images/qiTianDaSheng.jpg");
+    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,0.6) 30%), url("../image/qiTianDaSheng.jpg");
     background-size: cover;
 }
 
@@ -117,7 +117,7 @@ body {
   }
 
   .fr-img{
-    grid-area: fi;
+    grid-area: fr-img;
     min-width: 100%;
     height: auto;
   }
